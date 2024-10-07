@@ -1,6 +1,8 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Plerion Shift Left Action'
+description:
+  'Stop misconfigurations before they make it to production. Shift left with
+  Infrastructure as Code (IaC) Scanning'
+author: 'Noel Llevares'
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
